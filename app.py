@@ -638,7 +638,7 @@ with col_foot3:
     st.markdown("""
     - [GitHub Profile](https://github.com)
     - [LinkedIn Profile](https://linkedin.com)
-    - Email: `denzel.valendez@student.edu.ph`
+    - Email: `denzelvalendez73@gmail.com`
     """)
 
 st.caption("© 2026 Denzel B. Valendez | CSIT 349 Applied AI | Built with Streamlit")
